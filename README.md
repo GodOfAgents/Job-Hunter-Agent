@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 The Multi-Agent Job Matching System is an automated solution designed to help job seekers find relevant opportunities based on their resumes. It extracts key information from resumes, searches for job postings, verifies job availability, and sends personalized recommendations via email. The system is built using Flask, integrates with the Gemini API for resume parsing, and employs CrewAI for task orchestration.
-
+![Job Hunter Agent](http://github.com/GodOfAgents/blob/main/logo.png)
 ---
 
 ## 🚀 Features
