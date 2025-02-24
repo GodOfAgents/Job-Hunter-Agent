@@ -46,8 +46,8 @@ The Multi-Agent Job Matching System is an automated solution designed to help jo
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/job-matching-system.git
-cd job-matching-system
+git clone https://github.com/GodOfAgents/job-hunter-agent.git
+cd job-hunter-agent
 ```
 
 ### 2️⃣ Set Up Virtual Environment
